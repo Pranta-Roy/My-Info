@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pranta-Roy
-- 👀 I’m interested in cisco
+- 👀 I’m interested in creative works
 - 🌱 I’m currently learning node.js
 - 💞️ I’m looking to collaborate on any open source project
 - 📫 How to reach me - pranta383@gmail.com
